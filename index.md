@@ -43,6 +43,6 @@ public void cse110(Student S) {
 > Life shines so brightly because that’s what makes it life.
 
 
-[try to use ralative link](docs/forRelativeLink)
+[try to use ralative link](yuling-li-1.github.io/forRelativeLink)
 
 [Back to the top](#welcome-to-this-boring-gitHub-page)
