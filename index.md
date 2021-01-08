@@ -39,8 +39,10 @@ public void cse110(Student S) {
 
 #### My favorite lyric
 > 命は輝いてこそ命だ
+
 > Life shines so brightly because that’s what makes it life.
 
 
+[try to use ralative link](docs/forRelativeLink)
 
 [Back to the top](#welcome-to-this-boring-gitHub-page)
